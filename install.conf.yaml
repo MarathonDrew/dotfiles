@@ -4,5 +4,6 @@
       relink: true
 - link:
     ~/aliases.sh: aliases.sh 
-    ~/.gitconfig: gitconfig.sh
+    ~/.gitconfig: .gitconfig
+    ~/.tmux.conf: .tmux.conf
 
