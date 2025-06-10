@@ -1,0 +1,8 @@
+- defaults:
+    link:
+      force: true
+      relink: true
+- link:
+    ~/aliases.sh: aliases.sh 
+    ~/.gitconfig: gitconfig.sh
+
