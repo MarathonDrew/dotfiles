@@ -5,5 +5,6 @@
 - link:
     ~/aliases.sh: aliases.sh 
     ~/.gitconfig: .gitconfig
-    ~/.tmux.conf: .tmux.conf
+    ~/.config/tmux/.tmux.conf: ./.config/tmux/.tmux.conf
+    ~/.config/nvim/lua/plugins/plugin_conf.lua: ./.config/nvim/lua/plugins/plugin_conf.lua
 
